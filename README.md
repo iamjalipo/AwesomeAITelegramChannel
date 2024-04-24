@@ -15,6 +15,7 @@ In this list I have provided the best AI channel in telegram, hope you enjoy ðŸ˜
 - https://t.me/cvision Tensorflow (News, Articles, Tensorflow) - Channel
 
 - https://t.me/DeepLearningGroup Deep learning | Python - Group
+
 - https://t.me/AIandBigdata Ai + Big Data - Channel 
 
 - https://t.me/joinchat/BhIXCD3_zWP798S2NxOncQ Deep Learning  - Group
